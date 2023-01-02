@@ -4,8 +4,11 @@ Calculate the overall average of Prelim, Midterm, and Finals grades by entering 
 Sample Output-
 
 Prelim Grade:98
+
 Midterm Grade:92
+
 Final Grade:94
 
 General Average:94
+
 Excellent
